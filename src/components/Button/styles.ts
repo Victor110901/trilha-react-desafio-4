@@ -10,6 +10,8 @@ export const ButtonContainer = styled.button`
     border: 1px solid #81259D;
     border-radius: 21px;
 
+    disabled: true;
+
     &:hover {
         opacity: 0.6;
         cursor:pointer;
